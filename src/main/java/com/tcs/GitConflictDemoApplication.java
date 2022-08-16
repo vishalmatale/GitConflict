@@ -10,4 +10,11 @@ public class GitConflictDemoApplication {
 		SpringApplication.run(GitConflictDemoApplication.class, args);
 	}
 
+	public void m1() {
+		
+		System.out.println("future-02 methode");
+		
+	}
+	
+	
 }
