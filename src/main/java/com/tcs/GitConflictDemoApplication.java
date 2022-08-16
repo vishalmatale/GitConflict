@@ -17,4 +17,11 @@ public class GitConflictDemoApplication {
 	}
 	
 
+	public void m1() {
+		
+		System.out.println("future-02 methode");
+		
+	}
+	
+	
 }
